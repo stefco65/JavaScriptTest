@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(13, 177, 155);
+    text-align: center;
+    size: 30px;
+  }
+
+  h2 {
+    color:rgb(240, 197, 6);
+    text-align: center;
+    size: 24px;
+  }
+
+  p{
+    color: slategrey;
+    text-align: center;
+    text-align: center;
+  }
+
+ 

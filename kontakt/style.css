@@ -1,0 +1,7 @@
+body {
+    background-color: none;
+}
+
+.tlo{
+    background-image: image("/grafiki/tło_strona1.jpeg");
+}
